@@ -1,0 +1,6 @@
+.idea
+.git
+DEV_*
+node_modules
+releases
+package-lock.json

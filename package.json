@@ -1,0 +1,21 @@
+{
+  "name": "simple-kiosk",
+  "version": "<VERSION>",
+  "description": "<DESCRIPTION>",
+  "main": "index.js",
+  "files": [
+    "README.md",
+    "copyright"
+  ],
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bodo Endres <dev@muspekaren.se>",
+  "license": "SEE LICENSE IN FILE copyright",
+  "devDependencies": {
+    "electron": "^18.3.9",
+    "electron-installer-debian": "^3.1.0",
+    "electron-packager": "^14.2.1"
+  }
+}
